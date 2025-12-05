@@ -1,5 +1,5 @@
 # Gherkin Code Review Instructions
-This file defines instructions for code reviews of Gherkin (*.feature) files, per the recommendations in "Behavior-Driven Development with Cucumber" by Richard Lawrence and Paul Rayner (bddwithcucumber.com).
+This file defines instructions for code reviews of Gherkin (`*.feature`) files, per the recommendations in "Behavior-Driven Development with Cucumber" by Richard Lawrence and Paul Rayner (bddwithcucumber.com).
 
 ## Most Gherkin Examples on the Web Are Bad
 Forget what you've inferred from Gherkin examples on the internet. Most examples in the wild fail the advice below. Focus on the advice and examples here for your reviews.
